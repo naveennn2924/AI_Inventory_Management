@@ -1,0 +1,14 @@
+{
+  "name": "Rooh AI Inventory v2",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "forwardPorts": [8001],
+  "portsAttributes": {
+    "8001": { "label": "Inventory Dashboard", "onAutoForward": "openBrowser" }
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-python.vscode-pylance", "rangav.vscode-thunder-client"]
+    }
+  }
+}
