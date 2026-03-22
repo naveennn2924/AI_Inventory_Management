@@ -1,7 +1,7 @@
-# 🍽️ Rooh Gastronomy – AI Inventory System v2
+# 🍽️ Rooh Gastronomy – AI Inventory System
 
 > Production AI inventory system for Rooh Gastronomy, Hersbruck, Germany  
-> Built during AI & Process Automation Internship (Nov 2025 – Mar 2026)
+> Built during AI & Process Automation Internship (Jan 2026 – Mar 2026)
 
 ## What's New in v2
 
